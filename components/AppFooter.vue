@@ -7,11 +7,8 @@
                 find me in:
             </span>
             <div id="social-icons" class="flex">
-                <NuxtLink :to="social.twitter.url + social.twitter.user" target="_blank" class="flex justify-center items-center">
-                    <img src="/icons/social/twitter.svg"/>
-                </NuxtLink>
-                <NuxtLink :to="social.facebook.url + social.facebook.user" target="_blank" class="flex justify-center items-center">
-                    <img src="/icons/social/facebook.svg"/>
+                <NuxtLink :to="social.linkedin.url + social.linkedin.user" target="_blank" class="flex justify-center items-center">
+                    <img src="/icons/social/linkedin.svg"/>
                 </NuxtLink>
                 <NuxtLink :to="social.github.url + social.github.user" target="_blank" class="flex md:hidden justify-center items-center">
                 <img src="/icons/social/github.svg"/>

@@ -1,162 +1,158 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
-    "about": {
-        "sections": {
-            "professional-info": {
-                "title": "professional-info",
-                "icon": "icons/info-professional.svg",
-                "info": {
-                    "experience": {
-                        "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-                    },
-                    "hard-skills": {
-                        "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-                    },
-                    "soft-skills": {
-                        "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-                    }
-                }
-            },
-            "personal-info": {
-                "title": "personal-info",
-                "icon": "icons/info-personal.svg",
-                "info": { 
-                    "bio": {
-                        "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
-                    },
-                    "interests": {
-                        "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-                    },
-                    "education": {
-                        "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-                        "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
-                        }
-                    }
-                }
-            },
-            "hobbies-info": {
-                "title": "hobbies-info",
-                "icon": "icons/info-hobbies.svg",
-                "info": {
-                    "sports": {
-                        "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-                    },
-                    "favorite-games": {
-                        "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                    }
-                }
-            }
+  "name": "Miguel Rubiano",
+  "logo_name": "xArkqngel",
+  "role": "Systems Engineer",
+  "about": {
+    "sections": {
+      "professional-info": {
+        "title": "professional-info",
+        "icon": "icons/info-professional.svg",
+        "info": {
+          "experience": {
+            "title": "experience",
+            "description": "<br>With over two years of experience in frontend development, I have contributed to building scalable and efficient web applications. At Sostecnible, I played a key role in migrating a legacy system to a modern React-based architecture, improving performance and usability. <br><br> I collaborated in the implementation of internationalization features, creating reusable components, integrating AWS S3 for file management, and developed interfaces for new user roles, enhancing user engagement. Additionally, my experience as an IT Assistant at Datacomputo involved developing static websites, assisting with network infrastructure, and ensuring compliance with regulatory documentation."
+          },
+          "hard-skills": {
+            "title": "hard-skills",
+            "description": "<br>My technical expertise spans modern web development frameworks and cloud computing. I am proficient in React, Next.js, Nest.js, and Node.js, with strong knowledge of TypeScript and JavaScript. My experience includes working with database technologies like PostgreSQL, MongoDB, and Oracle, leveraging Sequelize and Prisma for efficient ORM management. I am skilled in cloud solutions, particularly AWS, and have integrated cloud-based services into applications. Additionally, I have experience using Ant Design, Git, and GitHub, ensuring efficient version control and UI development."
+          },
+          "soft-skills": {
+            "title": "soft-skills",
+            "description": "<br>Beyond technical proficiency, I excel in teamwork, adaptability, and problem-solving. I thrive in collaborative environments, ensuring seamless integration of ideas and efficient project execution. My leadership and time management skills enable me to meet deadlines and handle multiple projects effectively. I am always eager to learn and adapt to new technologies, making me a valuable asset in dynamic and fast-paced work settings."
+          }
         }
-    },
-    "contacts": {
-        "direct": {
-            "title": "contacts",
-            "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+      },
+      "personal-info": {
+        "title": "personal-info",
+        "icon": "icons/info-personal.svg",
+        "info": {
+          "bio": {
+            "title": "bio",
+            "description": "<br> About me <br> I am a passionate Computer and Systems Engineer dedicated to developing high-performance, user-centric applications. My journey in tech has been fueled by a continuous desire to learn and innovate, focusing on building scalable solutions that enhance user experience. I take pride in my ability to solve complex problems through efficient coding practices, cloud integration, and modern UI/UX strategies. My goal is to contribute to impactful projects that push the boundaries of technology while continuously growing as a professional."
+          },
+          "interests": {
+            "title": "interests",
+            "description": "<br>I am constantly learning and looking for content which can help me grow personally and professionally. I am passionate about technology, innovation, and entrepreneurship, and I enjoy exploring new tools and frameworks to enhance my skills. I am also an avid reader, with a keen interest in science fiction and fantasy novels. In my free time, I enjoy playing video games, watching movies, and spending time with my family and friends."
+          },
+          "education": {
+            "title": "education",
+            "description": "<br>I have always been passionate about computers and videogames, and that was the entry point for me to start studying systems engineering. Throughout my studies, i have gained a strong foundation in software development, cloud computing and db management. <br><br> Additionally, i have enhanced my technical knowledge through certifications, incluiding AWS and GitHub.",
+            "files": {
+              "university": "<br>I am a bachelor in Computer and Systems Engineering from the Universidad Pedagógica y Tecnológica de Colombia, i started my studies there in January 2019 and graduated in June 2024  <br><br> Also i have a bootcamp certificate in Cloud Architecture from the Universidad Sergio Arboleda, achieved in December 2024",
+              "certifications": "<br>I have different certifications in AWS and GitHub<br><br> GitHub Foundations - August 2024<br><br> AWS Cloud Foundations - August 2024<br><br> AWS Cloud Architecting - August 2024"
             }
-        },
-        "social": {
-            "github": {
-                "title": "Github profile",
-                "url": "https://github.com/",
-                "user": "username"
-            },
-            "facebook": {
-                "title": "Facebook profile",
-                "url": "https://facebook.com/",
-                "user": "username"
-            },
-            "twitter": {
-                "title": "Twitter account",
-                "url": "https://twitter.com/",
-                "user": "username"
-            }
-        },
-        "find_me_also_in": {
-            "title": "find-me-also-in",
-            "sources": {
-                "youtube": {
-                    "title": "YouTube channel",
-                    "url": "https://www.youtube.com/",
-                    "user": "username"
-                },
-                "gurushots": {
-                    "title": "GuruShots profile",
-                    "url": "https://gurushots.com/",
-                    "user": "username"
-                },
-                "instagram": {
-                    "title": "Instagram account",
-                    "url": "https://instagram.com/",
-                    "user": "username"
-                },
-                "twitch": {
-                    "title": "Twitch profile",
-                    "url": "https://twitch.com/",
-                    "user": "username"
-                }
-            }
+          }
         }
-    },
-    "gists": {
-        "1": "83861a67e377633ee8368df01ee3a355",
-        "2": "694c1f32332788a2ac7f37b09e5aa40e"
-    },
-    "projects": {
-        "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
-            "url": "https://github.com/"
-        },
-        "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
-            "url": "https://github.com/"
-        },
-        "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
-        },
-        "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/tetris-game.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "6": {
-            "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
-            "url": "https://github.com/"
+      },
+      "hobbies-info": {
+        "title": "hobbies-info",
+        "icon": "icons/info-hobbies.svg",
+        "info": {
+          "books": {
+            "title": "books",
+            "description": "<br>I am an avid reader with a passion for science fiction and distopias. I enjoy exploring new worlds, characters, and ideas through books, expanding my imagination and creativity. Some of my favorite authors include Brandon Sanderson and George Orwell "
+          },
+          "favorite-games": {
+            "title": "favorite-games",
+            "description": "<br>I am a passionate gamer with interests in a wide range of genres, including competitive and single person games. I enjoy exploring new worlds, engaging in strategic battles, and collaborating with other players in multiplayer games. Some of my favorite games include Red Dead Redemption 2, Valorant, and the Halo series."
+          },
+          "movies-and-series": {
+            "title": "movies-and-series",
+            "description": "<br>I am a movie enthusiast with a keen interest in science fiction, fantasy, and action films. I enjoy exploring new cinematic experiences, engaging with complex characters, and immersing myself in captivating storylines. Some of my favorite movies include Interestellar, Spirited Away, and Inception"
+          }
         }
+      }
     }
+  },
+  "contacts": {
+    "direct": {
+      "title": "contacts",
+      "sources": {
+        "email": "miguel.rubiano343@gmail.com",
+        "phone": "+57 3114582122"
+      }
+    },
+    "social": {
+      "github": {
+        "title": "Github profile",
+        "url": "https://github.com/",
+        "user": "xArkqngel"
+      },
+      "linkedin": {
+        "title": "LinkedIn profile",
+        "url": "https://linkedin.com/in/",
+        "user": "miguelrubiano343"
+      }
+    },
+    "find_me_also_in": {
+      "title": "find-me-also-in",
+      "sources": {
+        "youtube": {
+          "title": "YouTube channel",
+          "url": "https://www.youtube.com/",
+          "user": "username"
+        },
+        "gurushots": {
+          "title": "GuruShots profile",
+          "url": "https://gurushots.com/",
+          "user": "username"
+        },
+        "instagram": {
+          "title": "Instagram account",
+          "url": "https://instagram.com/",
+          "user": "username"
+        },
+        "twitch": {
+          "title": "Twitch profile",
+          "url": "https://twitch.com/",
+          "user": "username"
+        }
+      }
+    }
+  },
+  "gists": {},
+  "projects": {
+    "1": {
+      "title": "_ui-animations",
+      "description": "Duis aute irure dolor in velit esse cillum dolore.",
+      "img": "/images/projects/ui-animations2.png",
+      "tech": ["Flutter"],
+      "url": "https://github.com/"
+    },
+    "2": {
+      "title": "_ai-resources",
+      "description": "Duis aute irure dolor in velit esse cillum dolore.",
+      "img": "/images/projects/ai-resources.png",
+      "tech": ["Gatsby"],
+      "url": "https://github.com/"
+    },
+    "3": {
+      "title": "_worldmap",
+      "description": "Duis aute irure dolor in velit esse cillum dolore.",
+      "img": "/images/projects/worldmap.png",
+      "tech": ["Angular"],
+      "url": "https://github.com/"
+    },
+    "4": {
+      "title": "_ui-animations",
+      "description": "Duis aute irure dolor in velit esse cillum dolore.",
+      "img": "/images/projects/ui-animations.png",
+      "tech": ["React"],
+      "url": "https://github.com/"
+    },
+    "5": {
+      "title": "_tetris-game",
+      "description": "Duis aute irure dolor in velit esse cillum dolore.",
+      "img": "/images/projects/tetris-game.png",
+      "tech": ["React"],
+      "url": "https://github.com/"
+    },
+    "6": {
+      "title": "_ethereum",
+      "description": "Duis aute irure dolor in velit esse cillum dolore.",
+      "img": "/images/projects/ethereum.png",
+      "tech": ["Vue"],
+      "url": "https://github.com/"
+    }
+  }
 }

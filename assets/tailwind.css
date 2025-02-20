@@ -180,8 +180,8 @@ main.page {
 
 
   #page-menu, #nav-logo, #filter-menu {
-    min-width: 310px !important;
-    max-width: 310px !important;
+    min-width: 340px !important;
+    max-width: 340px !important;
   }
 
   /* header */
