@@ -6,7 +6,7 @@
 </p>
 <div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6fa55804-6799-419f-9222-359ba49c5e4c/deploy-status)](https://app.netlify.com/sites/developer-portfolio-v2/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e91c41e2-6e82-4f69-8784-f54e05314f73/deploy-status)](https://app.netlify.com/sites/xark-portfolio-v2/deploys)
 
 </div>
 

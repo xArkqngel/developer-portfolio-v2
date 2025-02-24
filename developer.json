@@ -21,9 +21,9 @@
             "title": "hard-skills",
             "description": "<br>My technical expertise spans modern web development frameworks and cloud computing. I am proficient in React, Next.js, Nest.js, and Node.js, with strong knowledge of TypeScript and JavaScript. My experience includes working with database technologies like PostgreSQL, MongoDB, and Oracle, leveraging Sequelize and Prisma for efficient ORM management. I am skilled in cloud solutions, particularly AWS, and have integrated cloud-based services into applications. Additionally, I have experience using Ant Design, Git, and GitHub, ensuring efficient version control and UI development.",
             "files": {
-              "languages": "<br> Java - Python - JavaScript - TypeScript - HTML - CSS",
-              "frameworks": " <br>React - Next - Nest - Node.js - Vue - Nuxt",
-              "cloud-and-db": "<br> AWS - PostgreSQL - MongoDB - Oracle - Sequelize - Prisma"
+              "frontend": "<br> React - Next - TypeScript - Tailwind - Astro - HTML - CSS - Figma - Bootstrap - SCSS - MUI - Ant Design - Zustand - Bootstrap - Jest - Cypress",
+              "backend": " <br> Nest - Node - GraphQL - REST - TypeORM - TypeGraphQL - JWT - Java - Passport - Axios",
+              "cloud-and-db": "<br> AWS - PostgreSQL - MongoDB - MySQL - Supabase - Oracle - Sequelize - Prisma"
             }
           },
           "soft-skills": {
@@ -93,76 +93,51 @@
         "url": "https://linkedin.com/in/",
         "user": "miguelrubiano343"
       }
-    },
-    "find_me_also_in": {
-      "title": "find-me-also-in",
-      "sources": {
-        "youtube": {
-          "title": "YouTube channel",
-          "url": "https://www.youtube.com/",
-          "user": "username"
-        },
-        "gurushots": {
-          "title": "GuruShots profile",
-          "url": "https://gurushots.com/",
-          "user": "username"
-        },
-        "instagram": {
-          "title": "Instagram account",
-          "url": "https://instagram.com/",
-          "user": "username"
-        },
-        "twitch": {
-          "title": "Twitch profile",
-          "url": "https://twitch.com/",
-          "user": "username"
-        }
-      }
     }
   },
   "gists": {},
   "projects": {
     "1": {
-      "title": "_ui-animations",
-      "description": "Duis aute irure dolor in velit esse cillum dolore.",
-      "img": "/images/projects/ui-animations2.png",
-      "tech": ["Flutter"],
-      "url": "https://github.com/"
+      "title": "_what-to-do",
+      "description": "Kanban-type task tracking application. It allows the creation of boards, lists and tasks.",
+      "img": "/images/projects/wtd.png",
+      "tech": ["Next", "React", "Tailwind"],
+      "url": "https://what-to-do-three.vercel.app/"
     },
     "2": {
-      "title": "_ai-resources",
-      "description": "Duis aute irure dolor in velit esse cillum dolore.",
+      "title": "_what-the-chat-back",
+      "description": "Backend for a real-time chat application, with the ability to create rooms and send messages.",
       "img": "/images/projects/ai-resources.png",
-      "tech": ["Gatsby"],
-      "url": "https://github.com/"
+      "tech": ["Nest", "GraphQL"],
+      "url": "https://github.com/xArkqngel/what-the-chat-backend"
     },
     "3": {
-      "title": "_worldmap",
-      "description": "Duis aute irure dolor in velit esse cillum dolore.",
+      "title": "_what-the-chat-front",
+      "description": "Frontend for a real-time chat application, with the ability to create rooms and send messages.",
       "img": "/images/projects/worldmap.png",
-      "tech": ["Angular"],
-      "url": "https://github.com/"
+      "tech": ["React"],
+      "url": "https://github.com/xArkqngel/what-the-chat-ui"
     },
     "4": {
-      "title": "_ui-animations",
-      "description": "Duis aute irure dolor in velit esse cillum dolore.",
-      "img": "/images/projects/ui-animations.png",
-      "tech": ["React"],
-      "url": "https://github.com/"
+      "title": "_old-portfolio",
+      "description": "Old portfolio developed in Astro",
+      "img": "/images/projects/portfolio.png",
+      "tech": ["Astro", "Tailwind"],
+      "url": "https://xark-portfolio.netlify.app/"
     },
     "5": {
-      "title": "_tetris-game",
-      "description": "Duis aute irure dolor in velit esse cillum dolore.",
-      "img": "/images/projects/tetris-game.png",
-      "tech": ["React"],
-      "url": "https://github.com/"
+      "title": "_steam-top-100-games",
+      "description": "Apollo GraphQL API that uses as data, the top 100 games on Steam and its DLCs, scraped from the Steam Store.",
+      "img": "/images/projects/steam-top.png",
+      "tech": ["GraphQL"],
+      "url": "https://steam-top100-apollo-api.vercel.app/graphql"
     },
     "6": {
-      "title": "_ethereum",
-      "description": "Duis aute irure dolor in velit esse cillum dolore.",
-      "img": "/images/projects/ethereum.png",
-      "tech": ["Vue"],
-      "url": "https://github.com/"
+      "title": "_steam-clone",
+      "description": "Steam Landing page clone using Astro and Tailwind CSS. Made as a personal project to learn Astro.",
+      "img": "/images/projects/steam.png",
+      "tech": ["Astro", "Tailwind"],
+      "url": "https://xark-steam-clone.netlify.app/"
     }
   }
 }
