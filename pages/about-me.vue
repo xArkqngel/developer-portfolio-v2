@@ -316,6 +316,8 @@ export default {
     focusCurrentSection(section) {
       this.currentSection = section.title
       this.folder = Object.keys(section.info)[0]
+      this.fileDescription = ''
+
 
       document.getElementById('folders-' + section.title).classList.toggle('hidden') // show folders
       document.getElementById('section-arrow-' + section.title).classList.toggle('rotate-90'); // rotate arrow
@@ -327,10 +329,6 @@ export default {
       document.getElementById('section-arrow-' + section.title).classList.toggle('rotate-90'); // rotate arrow
 
     },
-    /**
-     * TODO: Hay que crear un método para que cuando se haga click en un folder, se muestren los archivos que contiene. Y si se hace click en un archivo, se muestre el contenido del archivo.
-     * TODO:  Además de girar el icono del diple.
-     */
     focusCurrentFile(file, key) {
       this.file = key
       this.fileDescription = file

@@ -10,11 +10,21 @@
         "info": {
           "experience": {
             "title": "experience",
-            "description": "<br>With over two years of experience in frontend development, I have contributed to building scalable and efficient web applications. At Sostecnible, I played a key role in migrating a legacy system to a modern React-based architecture, improving performance and usability. <br><br> I collaborated in the implementation of internationalization features, creating reusable components, integrating AWS S3 for file management, and developed interfaces for new user roles, enhancing user engagement. Additionally, my experience as an IT Assistant at Datacomputo involved developing static websites, assisting with network infrastructure, and ensuring compliance with regulatory documentation."
+            "description": "<br>Computer and Systems Engineer with 2 years of frontend experience. Throughout this adventure, I've collaborated with my team on different labors such as backend, design, and database management, always looking to learn from this. I like to explore new technologies that allow me to build sustainable and scalable applications.",
+            "files": {
+              "freelance": "<br>January 2025 - Present <br><br> I am currently developing a web application for a freelance client, focusing on creating a user-friendly interface and efficient data management. I am responsible for the UI/UX design and development using multiple technologies and frameworks, ensuring a seamless user experience and responsive design. ",
+              "sostecnible": "<br>July 2023 - December 2024<br><br>Responsible for developing and maintaining the front-end of the enterprise application using React and NextJS, with a focus on creating an efficient and user-friendly interface.<br><br> - Developed reusable components and functionality to support a scalable application architecture.<br> - Implemented internationalization features, including dictionaries for different languages, extending the scope of the application to global markets.<br>Developed interfaces for 3 new types of users, increasing accessibility and satisfaction by 20%.<br> - Integrated the visualization of Gantt charts through Syncfussion, streamlining project management and tracking processes.",
+              "datacomputo": "<br>February 2022 - August 2022<br><br>  Responsible for the development and maintenance of static websites for different companies, using HTML, CSS, Javascript and Bootstrap or website builders such as Wix or GoDaddy, according to the user's needs.<br><br> - Developed and maintained static websites for several companies, ensuring a professional and accessible online presence.<br> - Collaborated in the maintenance and assembly of networks and computer equipment in the companies' facilities, improving operational efficiency.<br> - Managed the uploading and organization of documents requested by governmental entities, ensuring regulatory compliance."
+            }
           },
           "hard-skills": {
             "title": "hard-skills",
-            "description": "<br>My technical expertise spans modern web development frameworks and cloud computing. I am proficient in React, Next.js, Nest.js, and Node.js, with strong knowledge of TypeScript and JavaScript. My experience includes working with database technologies like PostgreSQL, MongoDB, and Oracle, leveraging Sequelize and Prisma for efficient ORM management. I am skilled in cloud solutions, particularly AWS, and have integrated cloud-based services into applications. Additionally, I have experience using Ant Design, Git, and GitHub, ensuring efficient version control and UI development."
+            "description": "<br>My technical expertise spans modern web development frameworks and cloud computing. I am proficient in React, Next.js, Nest.js, and Node.js, with strong knowledge of TypeScript and JavaScript. My experience includes working with database technologies like PostgreSQL, MongoDB, and Oracle, leveraging Sequelize and Prisma for efficient ORM management. I am skilled in cloud solutions, particularly AWS, and have integrated cloud-based services into applications. Additionally, I have experience using Ant Design, Git, and GitHub, ensuring efficient version control and UI development.",
+            "files": {
+              "languages": "<br> Java - Python - JavaScript - TypeScript - HTML - CSS",
+              "frameworks": " <br>React - Next - Nest - Node.js - Vue - Nuxt",
+              "cloud-and-db": "<br> AWS - PostgreSQL - MongoDB - Oracle - Sequelize - Prisma"
+            }
           },
           "soft-skills": {
             "title": "soft-skills",
