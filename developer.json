@@ -105,34 +105,41 @@
       "url": "https://what-to-do-three.vercel.app/"
     },
     "2": {
+      "title": "_sostecnible-web-page",
+      "description": "Web page for Sostecnible SAS",
+      "img": "/images/projects/sostecnible.png",
+      "tech": ["Next", "React", "Tailwind"],
+      "url": "https://www.sostecnible.com"
+    },
+    "3": {
       "title": "_what-the-chat-back",
       "description": "Backend for a real-time chat application, with the ability to create rooms and send messages.",
       "img": "/images/projects/ai-resources.png",
       "tech": ["Nest", "GraphQL"],
       "url": "https://github.com/xArkqngel/what-the-chat-backend"
     },
-    "3": {
+    "4": {
       "title": "_what-the-chat-front",
       "description": "Frontend for a real-time chat application, with the ability to create rooms and send messages.",
       "img": "/images/projects/worldmap.png",
       "tech": ["React"],
       "url": "https://github.com/xArkqngel/what-the-chat-ui"
     },
-    "4": {
+    "5": {
       "title": "_old-portfolio",
       "description": "Old portfolio developed in Astro",
       "img": "/images/projects/portfolio.png",
       "tech": ["Astro", "Tailwind"],
       "url": "https://xark-portfolio.netlify.app/"
     },
-    "5": {
+    "6": {
       "title": "_steam-top-100-games",
       "description": "Apollo GraphQL API that uses as data, the top 100 games on Steam and its DLCs, scraped from the Steam Store.",
       "img": "/images/projects/steam-top.png",
       "tech": ["GraphQL"],
       "url": "https://steam-top100-apollo-api.vercel.app/graphql"
     },
-    "6": {
+    "7": {
       "title": "_steam-clone",
       "description": "Steam Landing page clone using Astro and Tailwind CSS. Made as a personal project to learn Astro.",
       "img": "/images/projects/steam.png",
